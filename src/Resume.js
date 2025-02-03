@@ -1,5 +1,5 @@
 import React from 'react';
-import resume from "./assets/Praneeth_Sangani_Resume.png";
+import resume from "./assets/Praneeth_Sangani_Resume.PNG";
 import resume_pdf from './assets/Praneeth_Sangani_Resume.pdf';
 import {Button} from 'react-windows-xp';
 
