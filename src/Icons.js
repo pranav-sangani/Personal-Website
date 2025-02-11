@@ -16,14 +16,14 @@ function Icons({onClickPaint, onClickSolitaire, onClickMinesweeper, onClickPuzzl
             </div>
             <div className={'icon'}>
                 <span>&nbsp;&nbsp;</span>
-                <a href={'https://github.com/praneethsangani'}
+                <a href={'https://github.com/pranav-sangani'}
                    target={'_blank'}
                    rel="noreferrer">
                     <img src={ie_icon} alt="Github"/></a>
                 <p><span>&nbsp;&nbsp;</span>GitHub</p>
             </div>
             <div className={'icon'}>
-                <a href={'https://www.linkedin.com/in/praneeth-sangani/'}
+                <a href={'https://www.linkedin.com/in/pranav-sangani/'}
                    target={'_blank'}
                    rel="noreferrer">
                     <img src={ie_icon} alt="Linkedin Icon"/></a>
