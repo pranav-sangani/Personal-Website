@@ -1,4 +1,4 @@
-# Visit the website at https://psangani.dev/
+# Visit the website at https://pranav-sangani.github.io/Personal-Website/
 
 # About
 I created this website with React to mimic the first operating system that I ever used - Windows XP. There are links to
