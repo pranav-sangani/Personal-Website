@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/Personal-Website/static/css/main.9a19ff96.chunk.css",
-    "main.js": "/Personal-Website/static/js/main.69d3c422.chunk.js",
-    "main.js.map": "/Personal-Website/static/js/main.69d3c422.chunk.js.map",
-    "runtime-main.js": "/Personal-Website/static/js/runtime-main.3868ddb3.js",
-    "runtime-main.js.map": "/Personal-Website/static/js/runtime-main.3868ddb3.js.map",
-    "static/css/2.4449a53d.chunk.css": "/Personal-Website/static/css/2.4449a53d.chunk.css",
-    "static/js/2.1b2fc7f0.chunk.js": "/Personal-Website/static/js/2.1b2fc7f0.chunk.js",
-    "static/js/2.1b2fc7f0.chunk.js.map": "/Personal-Website/static/js/2.1b2fc7f0.chunk.js.map",
-    "index.html": "/Personal-Website/index.html",
-    "static/css/2.4449a53d.chunk.css.map": "/Personal-Website/static/css/2.4449a53d.chunk.css.map",
-    "static/css/main.9a19ff96.chunk.css.map": "/Personal-Website/static/css/main.9a19ff96.chunk.css.map",
-    "static/js/2.1b2fc7f0.chunk.js.LICENSE.txt": "/Personal-Website/static/js/2.1b2fc7f0.chunk.js.LICENSE.txt",
-    "static/media/Pranav_Sangani_Resume.b33b9700.png": "/Personal-Website/static/media/Pranav_Sangani_Resume.b33b9700.png",
-    "static/media/Pranav_Sangani_Resume.c111e8ee.pdf": "/Personal-Website/static/media/Pranav_Sangani_Resume.c111e8ee.pdf",
-    "static/media/App.css": "/Personal-Website/static/media/background_hd.c5aaa810.jpg",
-    "static/media/loading_screen.9e8dd29c.gif": "/Personal-Website/static/media/loading_screen.9e8dd29c.gif"
+    "main.css": "/static/css/main.6d54be5f.chunk.css",
+    "main.js": "/static/js/main.69d3c422.chunk.js",
+    "main.js.map": "/static/js/main.69d3c422.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.7dc243c0.js",
+    "runtime-main.js.map": "/static/js/runtime-main.7dc243c0.js.map",
+    "static/css/2.4449a53d.chunk.css": "/static/css/2.4449a53d.chunk.css",
+    "static/js/2.1b2fc7f0.chunk.js": "/static/js/2.1b2fc7f0.chunk.js",
+    "static/js/2.1b2fc7f0.chunk.js.map": "/static/js/2.1b2fc7f0.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.4449a53d.chunk.css.map": "/static/css/2.4449a53d.chunk.css.map",
+    "static/css/main.6d54be5f.chunk.css.map": "/static/css/main.6d54be5f.chunk.css.map",
+    "static/js/2.1b2fc7f0.chunk.js.LICENSE.txt": "/static/js/2.1b2fc7f0.chunk.js.LICENSE.txt",
+    "static/media/Pranav_Sangani_Resume.b33b9700.png": "/static/media/Pranav_Sangani_Resume.b33b9700.png",
+    "static/media/Pranav_Sangani_Resume.c111e8ee.pdf": "/static/media/Pranav_Sangani_Resume.c111e8ee.pdf",
+    "static/media/App.css": "/static/media/background_hd.c5aaa810.jpg",
+    "static/media/loading_screen.9e8dd29c.gif": "/static/media/loading_screen.9e8dd29c.gif"
   },
   "entrypoints": [
-    "static/js/runtime-main.3868ddb3.js",
+    "static/js/runtime-main.7dc243c0.js",
     "static/css/2.4449a53d.chunk.css",
     "static/js/2.1b2fc7f0.chunk.js",
-    "static/css/main.9a19ff96.chunk.css",
+    "static/css/main.6d54be5f.chunk.css",
     "static/js/main.69d3c422.chunk.js"
   ]
 }
