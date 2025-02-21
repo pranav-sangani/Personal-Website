@@ -34,8 +34,7 @@ function Icons({onClickPaint, onClickSolitaire, onClickMinesweeper, onClickPuzzl
                    target={'_blank'}
                    rel="noreferrer">
                     <img src={ie_icon} alt="Sorting Algorithm Visualizer"/>
-                </a>
-                <p>Sorting<br/>Algorithm<br/>Visualizer</p>
+                <p>SortingAlgo <br/> Visualizer</p>
             </div>                 
             <div className={'icon'}>
                 <img src={calculator_icon} alt="Puzzle Icon" onClick={onClickPuzzle}/>
