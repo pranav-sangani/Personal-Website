@@ -29,7 +29,7 @@ function Icons({onClickPaint, onClickSolitaire, onClickMinesweeper, onClickPuzzl
                     <img src={ie_icon} alt="Linkedin Icon"/></a>
                 <p>Linkedin</p>
             </div>
-            <div className={'icon'}>
+            <div className={'icon'} style={{ marginLeft: '-5px' }}>
                 <a href={'https://pranav-sangani.github.io/SortingAlgorithmVisualizer/'}
                    target={'_blank'}
                    rel="noreferrer">
