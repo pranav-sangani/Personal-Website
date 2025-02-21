@@ -21,15 +21,7 @@ function Icons({onClickPaint, onClickSolitaire, onClickMinesweeper, onClickPuzzl
                    rel="noreferrer">
                     <img src={ie_icon} alt="Github"/></a>
                 <p><span>&nbsp;&nbsp;</span>GitHub</p>
-            </div>
-            <div className={'icon'}>
-                <span>&nbsp;&nbsp;</span>
-                <a href={'https://pranav-sangani.github.io/SortingAlgorithmVisualizer/'}
-                   target={'_blank'}
-                   rel="noreferrer">
-                    <img src={ie_icon} alt="Sorting Algorithm Visualizer"/></a>
-                <p><span>&nbsp;&nbsp;</span>Sorting Algorithm Visualizer</p>
-            </div>                       
+            </div>                      
             <div className={'icon'}>
                 <a href={'https://www.linkedin.com/in/pranav-sangani-533415229/'}
                    target={'_blank'}
@@ -37,6 +29,12 @@ function Icons({onClickPaint, onClickSolitaire, onClickMinesweeper, onClickPuzzl
                     <img src={ie_icon} alt="Linkedin Icon"/></a>
                 <p>Linkedin</p>
             </div>
+            <div className={'icon'}>
+                <a href={'https://pranav-sangani.github.io/SortingAlgorithmVisualizer/'}
+                   target={'_blank'}
+                   rel="noreferrer">
+                    <img src={ie_icon} alt="Sorting Algorithm Visualizer"/></a>
+            </div>                        
             <div className={'icon'}>
                 <img src={calculator_icon} alt="Puzzle Icon" onClick={onClickPuzzle}/>
                 <p>Puzzles</p>
