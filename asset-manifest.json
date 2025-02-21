@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.6d54be5f.chunk.css",
-    "main.js": "/static/js/main.69d3c422.chunk.js",
-    "main.js.map": "/static/js/main.69d3c422.chunk.js.map",
+    "main.js": "/static/js/main.934839e5.chunk.js",
+    "main.js.map": "/static/js/main.934839e5.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.7dc243c0.js",
     "runtime-main.js.map": "/static/js/runtime-main.7dc243c0.js.map",
     "static/css/2.4449a53d.chunk.css": "/static/css/2.4449a53d.chunk.css",
@@ -15,13 +15,13 @@
     "static/media/Pranav_Sangani_Resume.b33b9700.png": "/static/media/Pranav_Sangani_Resume.b33b9700.png",
     "static/media/Pranav_Sangani_Resume.c111e8ee.pdf": "/static/media/Pranav_Sangani_Resume.c111e8ee.pdf",
     "static/media/App.css": "/static/media/background_hd.c5aaa810.jpg",
-    "static/media/loading_screen.9e8dd29c.gif": "/static/media/loading_screen.9e8dd29c.gif"
+    "static/media/loading_screen.4baec1d4.gif": "/static/media/loading_screen.4baec1d4.gif"
   },
   "entrypoints": [
     "static/js/runtime-main.7dc243c0.js",
     "static/css/2.4449a53d.chunk.css",
     "static/js/2.1b2fc7f0.chunk.js",
     "static/css/main.6d54be5f.chunk.css",
-    "static/js/main.69d3c422.chunk.js"
+    "static/js/main.934839e5.chunk.js"
   ]
 }
