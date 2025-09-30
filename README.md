@@ -12,5 +12,5 @@ nostalgic - hope you enjoy it as much as I do!
 ![Spider Solitaire Preview](docs/spider_readme.PNG)
 
 # Credits
-For both Spider and Paint, I am just using a iframe component that are going to their
+For both Spider and Paint, I am using an iframe component that goes to their
 websites: https://www.squidbyte.com/games/spidersolitairewindowsxp/ and https://jspaint.app respectively.
